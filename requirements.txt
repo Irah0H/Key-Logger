@@ -1,0 +1,4 @@
+# Python dependencies required for the project.
+keyboard
+# install these with bash
+pip install -r requirements.txt
