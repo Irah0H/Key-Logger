@@ -1,0 +1,3 @@
+## Usage
+The keylogger will log all keystrokes into keylog.txt in the same directory.
+Use Ctrl+C to stop the script.
